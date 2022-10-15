@@ -12,6 +12,7 @@ module.exports = {
       xl: 24,
       '2xl': 32,
     },
+    
     colors: {
       transparent: 'transparent',
 
@@ -19,7 +20,7 @@ module.exports = {
       White: '#FFF',
 
       gray: {
-        900: '#12121214',
+        900: '#121214',
         800: '#202024',
         400: '#7c7c8a',
         200: '#c4c4cc',
